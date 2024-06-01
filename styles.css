@@ -11,18 +11,24 @@ body {
     background-color: #1f2937;
     color: #e5e7eb; /* TODO: make the header links this colour */
     border: 5px solid #ee0404; 
-    display: flex;    
+    display: flex;   
 }
 
-.header-links {
-    text-decoration: none;
-    color: #F9FAF8;
+.nav-links.1.2.3{
+    text-decoration: none; 
+    color: #e5e7eb;
 }
+
 .section1-h1 { 
     font-size: 48px;
-    color: #F9FAF8;
+    color: #F9FAF8; /* not working??? */
    /* font-weight: bold; */
    /* TODO: make the header text extra bold */
+}
+
+.top-text {
+    border: 5px solid #ee0404; 
+    display: flex;   
 }
 
 ul {
