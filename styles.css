@@ -7,14 +7,18 @@ body {
     border: 5px solid #5c92fd;
 }
 
-.header {
+.header { /* make section1-nav */
     background-color: #1f2937;
     color: #e5e7eb; /* TODO: make the header links this colour */
     border: 5px solid #ee0404; 
     display: flex;    
 }
 
-.h1 {
+.header-links {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+.h1 { /* make section1-h1 */
     font-size: 48px;
     color: #F9FAF8;
    /* font-weight: bold; */
@@ -25,7 +29,3 @@ ul {
   list-style-type: none; /* no bullet points*/
 }
 
-a {
-    text-decoration: none; /* no underline on links */
-    /* color: #F9FAF8; - need it to be the same colour as the header text, this way would make all links on the page this color */
-  }
