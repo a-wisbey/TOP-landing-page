@@ -4,8 +4,9 @@ body {
 
 .header {
     background-color: #1f2937;
-    color: #e5e7eb;
-    /* TODO: make the header links this colour */
+    color: #e5e7eb; /* TODO: make the header links this colour */
+    border: 10px 10px solid #ee0404; /* TODO: this isnt working - figure out how to add border */
+    
 }
 
 .h1 {
