@@ -22,12 +22,13 @@ body {
 .section1-h1 { 
     font-size: 48px;
     color: #F9FAF8; /* not working??? */
+ 
    /* font-weight: bold; */
    /* TODO: make the header text extra bold */
 }
 
 .top-text {
-    border: 5px solid #ee0404; 
+    border: 5px solid #ee04e6; 
     display: flex;   
 }
 
