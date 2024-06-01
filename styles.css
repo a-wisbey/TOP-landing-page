@@ -7,3 +7,12 @@
     font-size: 48px;
     
 }
+
+ul {
+  text-decoration: none; /* no underline */
+  list-style-type: none; /* no bullet points*/
+}
+
+a {
+    text-decoration: none; /* no underline on links */
+  }
