@@ -14,7 +14,14 @@ body {
     display: flex;   
 }
 
+/*
 .nav-links.1.2.3{
+    text-decoration: none; 
+    color: #e5e7eb;
+}
+*/
+
+.header-links {
     text-decoration: none; 
     color: #e5e7eb;
 }
