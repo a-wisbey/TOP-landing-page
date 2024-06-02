@@ -27,10 +27,20 @@ body {
     color: #e5e7eb;
 }
 */
+.navbar {
+    /* display: inline-flex; */
+    
+}
 
-.header-links {
+.header-links-parent {
+    display: inline-flex;
+    border: 5px solid #6d04ee; 
+}
+
+.header-link {
     text-decoration: none; 
     color: #e5e7eb;
+    border: 5px solid #04ee5a; 
 }
 
 .section1-h1 { 
